@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/2e2384a6-8e4d-4e9a-801e-446b9f41c365)
+![image](https://github.com/user-attachments/assets/8031389d-04eb-482d-8a36-00ea2842a4ef)
+
 
 Welcome to my GitHub profile! 👋
 
@@ -18,5 +19,5 @@ Feel free to explore my projects! You’ll find a bit of everything, from quirky
 
 
 
-![image](https://github.com/user-attachments/assets/dbb6fdce-f731-4f60-abeb-70f76b84104c)
+
 
